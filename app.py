@@ -2,4 +2,4 @@ def hello():
     return "Hello"
 
 def goodbye():
-    return "Goodbye"
+    return "Goodbye Juan Carlos"
